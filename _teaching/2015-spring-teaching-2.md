@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "University of St Andrews"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
