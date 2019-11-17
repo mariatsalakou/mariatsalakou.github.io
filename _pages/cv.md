@@ -13,7 +13,7 @@ Education
 ======
 * PhD Mathematics, University of St Andrews, 2019 - Present
 * MSc Mathematics, University of St Andrews, 2017 - 2018
-* BSc Mathematics, University of Cyprus 2013-2017
+* BSc Mathematics, University of Cyprus, 2013-2017
 
 Work experience
 ======
