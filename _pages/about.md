@@ -12,16 +12,11 @@ I am a first year PhD student at the University of St Andrews.
 
 Contact details
 ------
-Room 120
 
-School of Mathematics and Statistics
-
-The University of St Andrews
-
-St Andrews
-
-KY16 9SS
-
-Scotland
+<address>
+  Room 120<br /> School of Mathematics and Statistics<br /> St Andrews<br /> KY16 9SS<br /> Scotland<br /> 
 
 Email: mt200@st-andrews.ac.uk
+
+</address>
+
