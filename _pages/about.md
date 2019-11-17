@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the University of St Andrews.
+I am a first year PhD student in mathematics at the University of St Andrews.
 
 Contact details
 ------
