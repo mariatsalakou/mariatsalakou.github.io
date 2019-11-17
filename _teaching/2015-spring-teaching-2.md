@@ -1,7 +1,7 @@
 ---
-title: "University of St Andrews"
+title: "Tutor, University of St Andrews"
 collection: teaching
-type: "Tutor"
+type: ""
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Mathematics and Statistics"
 date: 2019-01-01
