@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutor"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Mathematics and Statistics"
-date: 2015-01-01
+date: 2019-01-01
 location: "City, Country"
 ---
 
