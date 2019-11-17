@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maria Tsalakou"
 title_separator          : "-"
 name                     : &name "Maria Tsalakou"
-description              : &description "I am a first year PhD student at the University of St Andrews"
+description              : &description "I am a first year PhD student in Mathematics at the University of St Andrews"
 url                      : https://mariat39.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariat39.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/maria-tsalakou-606028163/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
