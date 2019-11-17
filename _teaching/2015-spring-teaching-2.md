@@ -1,14 +1,14 @@
 ---
 title: "University of St Andrews"
 collection: teaching
-type: "Workshop"
+type: "Tutor"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "School of Mathematics and Statistics"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+MT1002 - Mathematics
 
 Heading 1
 ======
