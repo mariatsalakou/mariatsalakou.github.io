@@ -14,7 +14,7 @@ Contact details
 ------
 
 <address>
-  Room 120<br /> School of Mathematics and Statistics<br /> St Andrews<br /> KY16 9SS<br /> Scotland<br /> 
+  Room 120<br style="line-height:0px;" /> School of Mathematics and Statistics<br style="line-height:0px;" /> St Andrews<br style="line-height:0px;" /> KY16 9SS<br style="line-height:0px;" /> Scotland<br style="line-height:0px;" /> 
 
 Email: mt200@st-andrews.ac.uk
 
