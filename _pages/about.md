@@ -13,10 +13,10 @@ I am a first year PhD student in mathematics at the University of St Andrews. I 
 Contact details
 ------
 
-<address>
+
   Room 120<br style="line-height:0px;" /> School of Mathematics and Statistics<br style="line-height:0px;" /> University of St Andrews<br style="line-height:0px;" /> KY16 9SS<br style="line-height:0px;" /> Scotland<br style="line-height:0px;" /> 
 
 Email: mt200@st-andrews.ac.uk
 
-</address>
+
 
