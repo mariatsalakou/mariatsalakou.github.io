@@ -7,35 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
-* PhD Mathematics, University of St Andrews, 2019 - Present
-* MSc Mathematics, University of St Andrews, 2017 - 2018
-* BSc Mathematics, University of Cyprus, 2013-2017
-
-Work experience
-======
-* Quantitative Research Executive
-  * Pulse Market Research, Nicosia, Cyprus
-  * October 2018 - July 2019
- 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/MariaT39/mariat39.github.io/raw/master/files/cv.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
