@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in mathematics at the University of St Andrews. I work as part of the  <a href="http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/index.php">algebra and combinatorics research group</a>. My current research is on practical computation with finitely presented semigroups, supervised by <a href="http://www-groups.mcs.st-andrews.ac.uk/~jamesm/">Prof James D. Mitchell</a>.
+I am a PhD student in mathematics at the University of St Andrews. I work as part of the  <a href="http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/index.php">algebra and combinatorics research group</a>. My current research is on practical computation with finitely presented semigroups, supervised by <a href="http://www-groups.mcs.st-andrews.ac.uk/~jamesm/">Prof James D. Mitchell</a>.
 
 Contact details
 ------
