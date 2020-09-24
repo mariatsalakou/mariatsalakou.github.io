@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maria Tsalakou"
 title_separator          : "-"
 name                     : &name "Maria Tsalakou"
-description              : &description "I am a first year PhD student in mathematics at the University of St Andrews"
+description              : &description "I am a PhD student in mathematics at the University of St Andrews"
 url                      : https://mariatsalakou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariatsalakou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maria Tsalakou"
   avatar           : "profile3.jpg"
-  bio              : "I am a first year PhD student in mathematics at the University of St Andrews"
+  bio              : "I am a PhD student in mathematics at the University of St Andrews."
   location         : "University of St Andrews"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
