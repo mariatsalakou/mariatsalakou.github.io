@@ -8,6 +8,8 @@ author_profile: true
 
 ### Academic Year 2020-2021
 
+Computational methods for small overlap monoids - *eNBSAN, 2021*
+
 Rational Word Problem Monoids and the example of C(4)-monoids - *Pure Postgraduate Seminar, University of St Andrews, 2021*
 
 String Rewriting Systems - *Virtual Postgraduate Interdisciplinary Mathematics Symposium, University of St Andrews, 2021*
