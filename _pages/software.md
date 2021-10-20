@@ -12,5 +12,5 @@ Rudimentary implementation of three algorithms for finitely generated monoids an
 
 ## [Libsemigroups](https://github.com/libsemigroups/libsemigroups)
 
-Contributed to the Knuth-Bendix implementation, and related algorithms for the class *ActionDigraph*
+Contributed to the Knuth-Bendix implementation, and related algorithms for the class *ActionDigraph*.
 <https://github.com/libsemigroups/libsemigroups>
