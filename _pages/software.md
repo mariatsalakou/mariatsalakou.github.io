@@ -1,6 +1,6 @@
 ---
 title: "Software contributions"
-permalink: /talks/
+permalink: /software/
 author_profile: true
 ---
 {% include base_path %}
