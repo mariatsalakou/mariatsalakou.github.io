@@ -5,6 +5,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+### Academic Year 2021-2022
+
+Presentations of inverse monoids - *Algebra and Combinatorics Seminar, University of St Andrews, 2021*
 
 ### Academic Year 2020-2021
 
