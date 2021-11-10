@@ -9,6 +9,8 @@ author_profile: true
 
 Presentations of inverse monoids - *Algebra and Combinatorics Seminar, University of St Andrews, 2021*
 
+Computing inverse semigroups - *Pure Postgraduate Seminar, University of St Andrews, 2021*
+
 ### Academic Year 2020-2021
 
 Computational methods for small overlap monoids - *eNBSAN, 2021*
