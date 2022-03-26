@@ -7,7 +7,7 @@ author_profile: true
 
 ### Academic Year 2021-2022
 
-Computing congruences of finitely presented monoids, *North British Semigroups and Applications Network, 2022*
+Computing congruences of finitely presented monoids - *North British Semigroups and Applications Network, 2022*
 
 Presentations of inverse monoids - *Algebra and Combinatorics Seminar, University of St Andrews, 2021*
 
