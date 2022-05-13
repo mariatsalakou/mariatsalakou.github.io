@@ -9,6 +9,8 @@ author_profile: true
 
 ### Academic Year 2021-2022
 
+MT2505 Abstract Algebra
+
 MT2501 Linear Mathematics
 
 ### Academic Year 2019-2020
