@@ -5,7 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Teaching Expereience (Tutor), [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/), University of St Andrews
+## Teaching Experience (Tutor), [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/), University of St Andrews
 
 ### Academic Year 2022-2023
 
