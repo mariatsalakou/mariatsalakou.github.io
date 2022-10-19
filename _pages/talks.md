@@ -5,6 +5,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+### Academic Year 2022-2023
+
+Practical computation with finitely presented monoids - *Semigroups Seminar, University of York, 2022*
+
 ### Academic Year 2021-2022
 
 The low index congruences algorithm for monoids - *Postgraduate Interdisciplinary Mathematics Symposium, University of St Andrews, 2022*
