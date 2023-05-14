@@ -8,6 +8,10 @@ author_profile: true
 
 ### Academic Year 2022-2023
 
+Computing the congruences of a finitely presented monoid - *Algebra and Combinatorics Seminar, University of St Andrews, 2023* 
+
+Computing with small overlap monoids - *Postgraduate Interdisciplinary Mathematics Symposium, University of St Andrews, 2023*
+
 Practical computation with finitely presented monoids - *Semigroups Seminar, University of York, 2022*
 
 ### Academic Year 2021-2022
