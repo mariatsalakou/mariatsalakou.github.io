@@ -5,7 +5,7 @@ body {
   min-width: 0;
   padding: 0 10px 25px;
 
-  color: mediumaquamarine;
+  color: #444;
 
   display: grid;
   row-gap: 5px;
@@ -47,7 +47,7 @@ article {
 }
 
 a {
-  color: #2F4F4F;
+  color: mediumaquamarine;
 }
 
 h1, h2 {
