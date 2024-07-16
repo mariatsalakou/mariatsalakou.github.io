@@ -61,6 +61,8 @@ h2 {
   font-size: 23px;
 }
 
+p {text-align: justify;}
+
 li { margin: 1em 0em; padding: 0.2em; }
 
 @media screen and (max-width: 430px) {
